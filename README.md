@@ -15,4 +15,5 @@ Neste projeto, desenvolvi uma pipeline de dados externos na AWS, utilizando uma 
 - Aplicar o conhecimento adquirido em projetos futuros.
 
 ## Pipeline de Dados
-![Pipeline de Dados](img\Diagrama sem nome.drawio.png)
+
+![Pipeline de Dados](img/Diagrama sem nome.drawio.png)
